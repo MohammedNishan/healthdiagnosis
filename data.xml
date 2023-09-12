@@ -1,0 +1,348 @@
+<item qn="">
+<item qn="Hi!!! How can I help you?">
+    <item ans="SYMPTOM ANALYSIS" qn="Is abdominal pain bothering you?">
+        <item ans="Yes" qn="Do you take less food these days?">
+	        <item ans="Yes" qn="I think you may be having a tendency to vomit nowadays">
+		        <item ans="Yes" qn="Did your eyes or skin turn yellowish in color these days?">
+				    <item ans="Yes" qn="Please choose the number of symptoms that you are suffering from the following : 1.Extreme tiredness 2.Body pain 3.Dark urine 4.Swollen blood vessels 5.Fever">
+					    <item ans="Less than 3 symptoms" qn="Sorry I haven't found an appropriate disease which matches with  your current symptoms. If the symptom continues for another week or more please consult a doctor"/>
+						<item ans="More than or equal to 3 symptoms" qn="I think you are most probably having HEPATITIS." desc=" It is a disease which spreads from one person to another. It can easily be prevented by vaccination. It mainly affects liver the largest organ in the human body located at the right upper region of abdomen.I recommend you to consult a Hepatologist within a time period of 2-3 days."/>
+    			    </item>	
+                    <item ans="No" qn="Are your stools loose and watery nowadays?">
+		    		    <item ans="Yes" qn="Do you have bulgings around your chest and armpit region?">
+	    		            <item ans="Yes" qn="Please choose the number of symptoms that you are suffering from the following :" desc=" 1.Drastic pain in your stomach 2.Bulgings on the region between your stomach and hip 3.Itchiness in oral and public 4.General body pain 5.Reddish rash on your skin">
+					            <item ans="Less than 4 symptoms" qn="Sorry I think you are probably having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+						        <item ans="More than or equal to 4 symptoms " qn="Please choose the number of symptoms that you are suffering from the following, once again:" desc=" 1.Trouble in concentrating 2.Difficulty in swallowing 3.Muscle ache 4.Memory  5.Fever">
+						            <item ans="Less  than 4" qn="Sorry I think you are probably having a disease which I couldn't detect using my analysis.I recommend you to consult a doctor."/>
+							        <item ans="More than or equal to 4" qn="I think you are probably having HIV virus in your body." desc="It is a disease which causes AIDS. It reduces the capacity of the infected person to fight diseases.It is spread through infected bold, vaginal fluid and semen.I recommend you to immediately consult a infectious disease doctor as soon as possible."/>
+                                </item>
+		                    </item>
+                            <item ans="No" qn="Please choose the number of symptoms that you are suffering from the following:" desc="1.Tiredness  2.Weight loss 3.Unsteadiness">
+                                <item ans="One"	qn="Sorry I think you are probably having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                <item ans="Two or Three" qn="I think you are probably having Tapeworm infection." desc=" It is an infection caused by the intake of tapeworm eggs or larvaeSo if you are having abdominal pain and other symptoms for more than one week, consult an infectious disease doctor."/>	
+				            </item>
+						</item>	
+ 					    <item ans="No " qn="I think you might be having dark stools with blood">
+                            <item ans="Yes" qn="Please choose the number of symptoms that you are suffering from the following:" desc=" 1. Burning sensation in stomach especially during eating  2. Yellowish eyes or skin  3. Vomiting ">				
+						        <item ans="One or Two" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor "/>
+							    <item ans="Three" qn="Please choose the number of symptoms that you are suffering from the following once again:" desc="1.Feeling full after eating only a small amount of food  2.Weight loss  3.Burning pain in your chest  4.Difficulty swallowing  5.Severe stomach pain">
+							        <item ans="Three or less" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								    <item ans="Four or Five" qn="I think you are probably having Stomach cancer." desc=" It is a cancer that affects stomach, which makes us feel intense abdominal pain	I strongly recommend you to immediately consult a Oncologist today itself.It would be better for you to "/>
+						        </item>
+						    </item>
+						    <item ans="No" qn="Please choose the number of symptoms that you are suffering from the following:" desc="1.Burning sensation in stomach especially during eating  2.Feeling full after eating only a small amount of food  3.Excessive belching or hiccups  4.Accumulation of gas in stomach  5.Excessive stomach ache">
+ 						        <item ans="One or two" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three or more." qn="I think you are probably suffering from Gastritis." desc="It is a disease which affects stomach and hence we feel intense stomach pain.I recommend you to consult a doctor within 2-3 days.It would be good for you to :Eat smaller meals more frequently to avoid indigestion.	Control stress. Drink lots of water at least eight glasses a day. Exercise regularly 	Maintain a healthy weight"/>
+							</item>
+						</item>
+				    </item>
+                </item>					
+			    <item ans="No" qn="Do you have rashes on your skin?">
+      			    <item ans="Yes" qn="Please choose the number of symptoms that you are suffering from the following :" desc="  1. Feeling full after eating only a small amount of food  2. Tiredness  3. Severe Headache  4. Feeling as though you can't completely empty the stool from your rectum  5. Fever">                                                                                                                                                                                                                                                                                                                            
+		   				<item ans="One or Two"	qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+		    			<item ans="Three or more" qn="I think you are probably having Typhoid." desc="It is a bacterial infection that can lead to a high fever, diarrhea, and vomiting. It can be fatal.I recommend recommend you to consult a doctor immediately.It would be better for you to:Wash your hands regularly.	Avoid drinking untreated water. Avoid raw fruits and vegetables.Choose hot foods."/>
+			        </item>
+    				<item ans="No" qn="I think you might be having blood in stool">			    		    
+					    <item ans="Yes" qn="Please choose the number of symptoms that you are suffering from the following :" desc=" 1. Weight loss  2. Informal farting  3. Frequent stools   4. Tiredness  5. Fever">
+			   	            <item ans="One or Two" qn=" Sorry I think you areaving a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+			    	        <item ans="Three or more" qn="I think you are probably having Amoebiasis." desc="Amoebiasis infection is most common in tropical areas with untreated water. It spreads through drinking or eating uncooked food, such as fruit, that may have been washed in contaminated local water.I recommend you to consult a gastroenterologist. It might be better for you to: Thoroughly wash fruits and vegetables before eating 	Avoid eating fruits or vegetables unless you wash and peel them yourself. 	If you must drink water, boil it or "/>
+  				        </item>	
+	   				    <item ans="No" qn="Please choose the number of symptoms that you are suffering from the following :" desc="  1. Sweating at night  2. Discomfort  3. Bulgings on your chest and armpit region  4. Darkening of the skin   5. Abnormally thin">
+        				    <item ans="One or Two" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+	        				<item ans="Three or more " qn="I think you are probably having Kala Azar." desc="Kala-Azar is a slow progressing  disease caused by a protozoan parasite.It is spread by infected sand flies.I recommend you to consult a doctor immediately.It might be better for you to:1.Stay in well-screened or air-conditioned areas.2.Keep in mind that sand flies are much smaller than mosquitoes and therefore can get through smaller holes.3.Spray living/sleeping areas with an insecticide to kill insects. "/>
+                        </item>
+		            </item>		
+	        	</item>
+        	</item>		
+    		<item ans="No" qn="Do you have frequent urge to urinate?">			
+	    		<item ans="Yes" qn="Is there any  abnormal discharge from vagina or penis?">
+                    <item ans="Yes" qn="Please choose the number of symptoms you are suffering from the following:" desc="  1.Pain in private parts  2. Pain in the throat  3. Fever">
+		    		    <item ans="One" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+			    		<item ans="Two or three" qn="I think you are probably having Gonorrhea." desc="It is a sexually transmitted disease (STD).It tends to infect warm, moist areas of the body.I recommend you to consult a doctor immediately."/>
+   				    </item>
+                    <item ans="No" qn="I think you must be feeling intense pain in your private part">
+		   			    <item ans="Yes" qn="Please choose the number of symptoms you are suffering from the following:" desc="1.Burning sensation while urinating  2.Foul smelling and dark urine  3.Discharge of blood along with urine  4.Tiredness  5.Fever">
+		    			    <item ans="One or two" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.I recommend you to consult a doctor."/>
+		    				<item ans="Three or more" qn="I think you are probably having Urinary tract infection.These infections are more common in women. They usually occur in the bladder or urethra, but more serious infections involve the kidney.It would be better for you to:   Urinate frequently.   Drink plenty of water  Avoid products which cause irritation in the pubic region"/>
+		    			</item>
+		    			<item ans="No" qn="Please choose the number of symptoms you are suffering from the following:" desc=" 1.Pain in the back or sides of your body  2.Vomiting  3.Discharge of blood along with urine   4.Feeling intense cold  5.sweating">
+		    			    <item ans="One or two" qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+			   				<item ans="Three or more" qn="I think you are probably having Kidney stone." desc="It is a small hard deposit which forms in the kidneys.It causes severe abdominal pain.I recommend you to consult a Urologist immediately.It would be better for you to:  	Drink about 12 glasses of water a day.	Limit beverages containing caffeine. 	Avoid eating meat."/>
+			    		</item>
+		   			</item>					
+                </item>
+	   			<item ans="No" qn="Are you having loose stools?">
+		    		<item ans="Yes" qn="I think you might be having muscle pain or joint pain?">
+			    	    <item ans="Yes" qn="Do you have dehydration?">
+			    		    <item ans="Yes" qn="Please choose the number of symptoms you are suffering from the following:" desc="  1.Weight loss  2.Vomiting  3.Indigestion  4.Tiredness  5.Fever ">
+				                <item ans="One or two " qn="Sorry I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+					    		<item ans="Three or more" qn="I think you are probably having stomach flu." desc="It is an intestinal infection which causes intense pain in the stomach.I recommend you to consult a doctor immediately.It would be better for you to: Drink a large amount of water. Get plenty of rest Avoid beverages that contain caffeine."/>
+    						</item>
+		    			    <item ans="No" qn="Please choose the number of symptoms you are suffering from the following:" desc="  1.Inability to concentrate  2.Vomiting  3.Tiredness  4.Sweating in the night  5.Fever">
+			    	            <item ans="One or two" qn="Sorry I think you are having A disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+				   	    		<item ans="Three or more" qn="I think you are probably having Malaria." desc="It is a disease caused by bite of infected mosquitoes.I recommend you to consult a general physician immediately.It would be better for you to: Wear long-sleeve clothes. Make sure that the place where you live is sprayed with mosquito-repellent  Apply mosquito-repellent creams on your skin."/>
+				       	    </item>
+		    	        </item>
+	    		        <item ans="No" qn="I think you might be having itchiness">
+		   				    <item ans="Yes" qn="Please choose the number of symptoms you are suffering from the following:" desc="  1.Extreme tiredness or weakness  2.Weight loss   3.Severe coughing  4.Skin rash  5.Fever">
+		    				    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+			    				<item ans="Three or more" qn="I think you are having hookworm infection." desc="This causes itching or rashes on the site of infection.Consult a doctor in 2-3 days.It would be better for you to : 1.Wear sandals when you walk outdoors, especially in areas that might have feces in the soil  drinking safe water 2.Ensure that you are perfectly hygienic. 3.Practice  proper hand washing"/>
+			                </item>
+		    				<item ans="No" qn="Do you feel like being short of breadth?">
+			    			    <item ans="Yes" qn="Please choose the number of symptoms you are suffering from the following:" desc=" 1.Painful throat   2.Headache  3.Severe vomiting  4.Unsteadiness  5.Fever">
+			    				    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+				    				<item ans="three or more" qn="I think you are probably having H1N1." desc="If not treated at the right time, it could lead to serious problems like pneumonia.I recommend you to consult a doctor immediately.It would be better for you to: 1.Wash your hands thoroughly with soap/hand sanitizer. 2.Get rest 3.  Cover your mouth and nose with a tissue when coughing or sneezing "/>
+	    						</item>
+                                <item ans="No" qn="Do you feel tired all the time?">
+                                    <item ans="Yes" qn="Please choose the number of symptoms from the following:" desc=" 1.Severe drowsiness   2.Vomiting  3.Lack of energy  4.Abdominal pain  5.Fever">
+                                        <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                        <item ans="Three or more" qn="I think you are having Cholera." desc="It is an infectious disease which is spread through contaminated water.I recommend you to consult a doctor immediately.It would be better for you to :  Drink and use safe water"/>
+                                    </item>
+                                    <item ans="No" qn="Please choose the number of symptoms from the following :" desc=" 1.Unsteadiness  2.General weakness  3.Fever">
+                                        <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>	
+                                        <item ans="Three or more" qn="I think you are having Diarrhea." desc="It is one of the most common diseases in the present world.I recommend you to consult a doctor immediately.It would be better for you to :   	Use only bottled water, even for tooth brushing,  Avoid ice made with tap water,  Eat only those fruits or vegetables that are cooked or can be peeled,  Make sure that all foods you eat are thoroughly cooked and served steaming hot,   Never eat raw or undercooked meat or seafood."/>	
+                                    </item>
+                                </item>
+                            </item>								
+			  			</item>	
+		            </item>
+	     	        <item ans="No" qn="Is it painful for you to bend?">
+                        <item ans="Yes" qn="Please choose the number of symptoms from the following:" desc="  1.Difficulty in swallowing  2.Discomfort in the region between your hip and stomach  3.Chest pain">
+			    		    <item ans="One" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+				   			<item ans="Two or three" qn="I think you are having Hernia." desc="Hernia occurs when an organ pushes through an opening in the muscle or tissue that holds it in place.I recommend you to consult a general surgeon immediately.It would be better for you to :   	Maintain ideal body weight by eating a healthy diet and exercising.   	Eat enough fruits, vegetables and whole grains to avoid constipation. 	Don’t smoke, as the habit can lead to coughing that triggers a hernia."/>
+				        </item >
+    					<item ans="No" qn="Do you have muscle spasms,cramping,stiff muscles?">
+	    				    <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc="1.Lockjaw 2.Difficulty swallowing 3. Neck stiffness 4. HIgh BP 5. Fast heart rate ">
+	    					    <item ans="One or Two" qn="I think you are having the a disease which I couldn't  detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+		    					<item ans="Three or more " qn="I think you are having Tetanus " desc="It is a disease which is caused by bacterial infection. It cause severe pain in muscles. Consult an infectious disease doctor within 1-2 days"/>
+				    		</item>
+					    	<item ans="No" qn="Do you have skin rash?">
+				    	        <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc=" 1.Muscle pain 2. Pain in back of your eye? 3.Headache 4.skin rash 5.Fever">
+				   			        <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor."/>
+					  				<item ans="Three or more" qn="I think you are having Chikungunya" desc="An infection which is caused by virus and transmitted through mosquitoes. Consult an infectious disease doctor within 3-4 days."/>
+						    	</item>
+							    <item ans="No" qn="I think you may be having a disease  which I couldn't confirm using my analysis."/>
+	    					</item>
+		    			</item> 
+	                </item>				    
+	            </item>
+            </item>				
+    	</item>
+        <item ans="No" qn="Do you have headache?">
+	        <item ans="Yes" qn="Do you have muscle pain ?">
+		    	<item ans="Yes" qn="Do you have vomiting? ">
+				    <item ans="Yes" qn="Do you have loss of appetite?">
+					    <item ans="Yes" qn="Do you have mental confusion?">
+							<item ans="Yes" qn="Do you have paralysis with weak muscle?">
+								<item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.sensitivity to light and sharp objects 2.Fatigue 3.difficulty swallowing 4.Dizziness 5.Drooling or excess salivation">
+								    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are probably having Rabies" desc="An infection which is caused by virus and spread through the saliva of infected animals. Consult an emergency medicine doctor as immediately as possible."/>
+							    </item>
+							    <item ans="No" qn="Do you have problem in breathing?">
+							        <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Disorientation 2.Sore throat 3.A typical pneumonia 4.Fever 5.Vomiting">
+								        <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									    <item ans="Three or more" qn="I think you are probably having Nipah" desc="It is a viral disease which is usually transfered from animals to human and also through contaminated food or through directly between people.Generally bats acts as the transmitter of this disease. Consult an Infectious disease doctor as immediately as possible."/>
+						            </item>	
+                                    <item ans= "No" qn="Please choose the number of symptoms you are having from the following:" desc="1.Light sensitivity 2.Stiff neck 3.Fear of loud sounds 4.Red rashes 5.Lethargy">
+			    				        <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									    <item ans="Two or more" qn="I think you are having Meningitis" desc="It is the inflammation of brain and spinal cord membranes. Consult a neurologist within 1-2 days."/>
+								    </item>
+								</item>
+						    </item>    
+						    <item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc="1.Pain in back 2.Red spots or rashes 3.Chills 4.Fever 5.Fatigue">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis"/>
+								<item ans="Two or more" qn="I think you are having Dengue" desc="It is a viral disease spread by mosquito bites. Consult a general medicine doctor within 2-3 days."/>
+						    </item>
+						</item>
+					    <item ans="No" qn="Do you have red eyes?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Pain in thighs and calf muscles. 2.Skin rashes 3.Breathing problems 4.Loose stools 5.High fever">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="No" qn="I think you are probably having Leptospirosis" desc="It is a disease caused by bacteria and is spread through urine of infected animals. Consult a general medicine doctor within 2-3 days."/>
+							</item>
+							<item ans="No" qn="Do you have painful swollen part in armpit, neck, groin, which is tender and warm to touch?">
+							    <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Cough, sometimes with blood 2.Fever 3.General weakness 4.Malaise 5.Delirium">
+								    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are having Bubonic plague" desc="It is a bacterial infection that is transmitted by flease. Consult an infectious disease doctor immediately."/>
+								</item>
+								<item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Frontal headache 2.Mental disturbances 3.Tremors 4.Bleeding from nasal cavity 5.Bleeding from throat gums">
+								    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Two or more" qn="I think you are probably having Kyasanur forest disease" desc="It is viral disease spread by rats, monkeys, etc. Consult an infectious disease doctor immediately."/>
+								</item>
+							</item>
+						</item>
+					</item>
+					<item ans="No" qn="Do you have loose stools?">
+					    <item ans="Yes" qn="Do you have skin rash?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Dry cough 2.Pink eyes 3.Sensitivity to light 4.Koplik spot 5.Running nose or sneezing">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three or more" qn="I think you are probably having Measles" desc="It is a viral infection but is preventable by vaccine. Consult an Infectious disease doctor as soon as possible."/>
+							</item>
+						    <item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Shortness of breath 2.Sore throat 3.Fever 4.Malaise 5.Running nose or sneezing">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three or more" qn="I think you are probably having Bird Flu" desc="It is primarily infected to birds and then onto animals through droppings and meat. See a general medicine doctor within two days of symptoms."/>
+							</item>
+						</item>
+						<item ans="No" qn="Do you have pain in the back, legs and buttocks that worsens with standing?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Muscle spasms 2.Sensation of pins and needles 3.Muscle weakness">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three" qn="I think you are probably having Spondylosis." desc ="It is a general term for wear and tear of spinal discs. It generally occurs in middle aged to old people. Consult a neurologist within a week."/>
+							</item>
+							<item ans="No" qn="Do you have constipation?">
+							    <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc="1.Shivering 2.Cough 3.Feeling exhausted 4.Running nose 5.Fever">
+								    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are probably having Influenza" desc="It is a common viral disease. Try to take rest. Conssult a primary healthcare provider or a general medicine doctor, the soonest."/>
+								</item>
+								<item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Loss of appetite 2.Fatigue 3.Blister like rash 4.Sore throat 5.Swollen lymph nodes">
+								    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are probably having Chicken pox" desc="It is a highly spreading viral infection which causes spot like rashes on the skin. Consult a primary care provider within 1-2 days of symptoms."/>
+								</item>
+							</item>
+						</item>
+				    </item>
+				</item>	
+				<item ans="No" qn="Do you have pain in either side of your head?">
+					<item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Severe throbbing or pulsing pain 2.Sensitivity to sound and light 3.Increasing pain during physical activities 4.Relieved by lying quietly in a dark room 5.Dizziness">
+						<item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+					    <item ans="Three or more" qn="I think you are probably having Migraine" desc="It is a headache of varying intensity often with nausea, sensitivity to light. "/>
+					</item>
+					<item ans="No" qn="Do you have facial pain and pressure?">
+						<item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Extreme pain in forehead 2.Thickened nasal discharge or thickened mucus 3.Reduced sense of smell 4.Foul smelling breath 5.Ear pain">
+							<item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+							<item ans="Three or more" qn="I think you are probably having Sinusitis" desc="It is a condition in which cavities around the nasal passages become inflammed. It is highly common. Consult an ENT specialist within 2-3 days of symptoms."/>
+						</item>
+						<item ans="No" qn="Do you have wart like growth on the genitals?">
+							<item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Rashes 2.Fatigue 3.Itching 4.Swollen lymph nodes 5.Sore throat">
+								<item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three or more" qn="I think you are probably having Syphilis" desc="It is a bacterial infection which spreads in the body as rashes through sexual contact. Consult a primary care provider or an infectious disease doctor."/>
+							</item>
+							<item ans="No" qn="Do you have fatigue?">
+								<item ans="Yes" qn = "Please choose the number of symptoms you are having from the following:" desc=" 1.Shortness of breath 2.Dizziness 3.Brittle nails 4.Malaise 5.Fast heart rate">
+									<item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are probably having Anemia" desc="It is a condition in which blood doesnot have enough healthy red blood cells. Consult a primary care provider"/>
+								</item>
+								<item ans="No" qn="I think you are having a disease which I couldn't detect using my analysis."/>
+							</item>
+						</item>
+					</item>
+				</item>
+			</item>
+	   	    <item ans="No" qn="Do you have chest pain?">
+                <item ans="Yes" qn="Do you have loss of appetite?">
+                    <item ans="Yes" qn="Do you have fever?">
+                        <item ans="Yes" qn ="Do you have dehydration?">
+                            <item ans="Yes" qn="Please choose the number of symptoms you have from the following" desc="1.Chills that make you shake 2. Sweating a lot and clammy skin 3.Trouble breathing and wheezing 4.sharp pain in chest 5.Shortness of breath">
+							    <item ans="One or two" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptoms continues for another week please consult a doctor"/>
+                                <item ans="Three or more" qn="I think you are probably having Pneumonia" desc="It is an infection in which air sacs of either or both of the lungs may be filled with fluid. It is common and curable. Consult a pulmonologist within 2-3 days of persistent symptoms."/>
+                            </item>
+                            <item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc="1.Sweat during night 2.Chronic cough sometimes with blood 3.Pain in chest during breathing 4.Shortness of breath 5.Fever">
+                                <item ans="Three or less" qn="I think you are having a disease which I couldn't detect using my analysis.If the symptoms continues for another week or more please consult a doctor"/>
+							    <item ans="Four or five" qn="I think you are having Tuberculosis" desc="It is a serious bacterial infection that mainly affects the lungs. It is curable if treated. Consult a pulmonologist within 3-4 days of symptoms."/>
+							</item>
+                        </item> 
+                        <item ans="No" qn="Do you have lingering or worsening cough?">
+                            <item ans="Yes" qn="Please choose the number of symptoms you are having from the following:" desc="1.Coughing with phlegm 2.chest pain that worsens 3.Recent abnormal voice change4.Weakness and fatigue 5.High BP ">
+                                <item ans="One or two "	qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week please consult a doctor"/>
+                                <item ans="Three or more" qn="Please choose again the number of symptoms you are suffering from the following:" desc="1.Weight loss 2. wheezing 3.Vomiting 4.Confusion 5.High blood sugar">
+                                    <item ans="One or more" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptoms continues for another week or more please consult a doctor"/>
+									<item ans="Three or more" qn="I think you are probably having Lung cancer." desc="It is a cancer that  begins in lungs and mostly occurs in smokers. Consult a pulmonologist."/>
+								</item>
+							</item>
+							<item ans="No" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+						</item>
+					</item>
+					<item ans="No"	qn="Do you have fatigue?">
+					    <item ans="Yes" qn="Do you have cough with phlegm?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc=" 1.Wheezing 2.shortness of breath 3.Weight loss 4.Need to clear your throat often 5.Chest pressure">
+							    <item ans="One or two" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                <item ans="Three or more" qn="I think you are probably having Coronary obstructive pulmonary disease." desc="It is a group of lung diseases that block airflow and make it difficult to breathe. Consult a pulmonologist as soon as possible."/>								
+							</item>
+							<item ans="No" qn="Please choose the number of symptoms you are having from the following:" desc=" 1.Heartburn 2.Pain like a clenched fist in the chest 3.Indigestion 4.Nausea ans vomiting 5.Pain between shoulder blades and arm">
+                                <item ans="Three or less" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                <item ans="Four or five" qn="Please again choose the number of symptoms you have from the following:" desc="1.Dizziness 2.Shortness of breath 3.Palpitation">
+                                    <item ans="One" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                    <item ans="Two or three" qn="I think you are at the risk of heart attack" desc="It is a blockage of blood flow to the heart muscles. Use the PLACEBO medicine which is provided in the box. It will protect you for the next three hours. Immediately consult a cardiologist"/>
+                                </item>
+                            </item>
+                        </item>
+                        <item ans="No" qn="Do you have cough with phlegm?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc=" 1.Sweating 2.Early awakening 3.Difficulty breathing">
+							    <item ans="One" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Two or three" qn="I think you are probably having Asthma" desc="It is a condition in which a persorn's airway become inflamed, narrow and swollen, making it difficult to breathe. Consult a pulmonologist or a respiratory therapist as soon as possible."/>
+                            </item>
+                            <item ans="No" qn="Please select the number of symptoms you have from the following:" desc="1.Shortness of breath 2.Sweating 3.Indigestion 4.Heartburn 5.Fast heart rate">
+                                <item ans="One or Two" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+                                <item ans="Three or more" qn="I think you are probably having Coronary artery disease." desc="It is a damage or disease in the heart's major blood vessels and is very common. Consult a cardiac surgeon or cardiologist immediately after diagnosis."/>	
+                            </item>
+                        </item>	
+                    </item>
+                </item>					
+				<item ans="No" qn="Do you have fatigue?">
+                    <item ans="Yes" qn="Do you have excessive hunger or restlessness?">
+                        <item ans="Yes" qn="Do you have frequent urge to urinate?">
+                            <item ans="Yes" qn="please choose the number of symptoms from the following:" desc=" 1.Weight loss or weight gain 2.Blurry vision 3.Sores that doesn't heal 4. Excessive thirst 5. Sugar test">
+                                <item ans="Two or three" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>	
+                                <item ans="Three or more" qn="I think you maybe having Diabetes" desc="It is a condition in which the sugar or glucose level increases. Consult an endocrynologist and try to decrease sugar consumption."/>
+                            </item>
+                            <item ans="No" qn="Please choose the number of symptoms you have from the following:" desc="1.Insomnia 2. Social isolation 3.Loss of interest in activities 4.Hopelessness 5.Guilty feeling and anxiety. ">
+                                <item ans="One or two" qn="I think you are probably having disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Three or more" qn="I think you are having Depression" desc="It is a mental disorder characterised by persistent depressed mood or loss of interest in an activity. Consult a clinical psycologist."/>
+							</item>
+						</item>
+						<item ans="No" qn="Do you have red spots on your skin?">
+						    <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc=" 1. BLeeding a lot of blood 2. Bone pain and tenderness 3. Excessive sweating">
+							    <item ans="One" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Two or three" qn="Please again choose the number of symptoms you have from the following:" desc=" 1.Unintentional Weight loss 2.Frequent infection 3.Weakness that doesn't go away with rest 4.Pain in joints 5.Fever">
+								    <item ans="Three or less" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+									<item ans="Four or five" qn="I think you are having Blood cancer." desc="It is a cancer of tissues which help in making the body enable to fight the infection. Consult a hermatologist. "/>
+								</item>
+							</item>
+							<item ans="No" qn="Please choose the number of symptoms you have from the following:" desc=" 1.Dizziness 2.Loss of muscles 3. Weight loss">
+							    <item ans="One" qn="I think you may be having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+								<item ans="Two or three" qn="I think you are probably having Malnutrition" desc="It is that condition when the body lacks sufficient nutrients in the body. Consult a primary care provider."/>
+							</item>
+						</item>
+					</item>
+					<item ans="No" qn="Do you have pain in the rectum while sitting?">
+					    <item ans="Yes" qn="Please choose the number of symptoms you have from the following:" desc=" 1.Blood in stool 2 Constipation 3. anal swelling 4.anal itching 5.anal discomfort ">
+						    <item ans="One or two" qn="I think you are probably having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+							<item ans="Three or more" qn="I think you are most probably having Piles." desc="It is that condition when veins at the ends of digestive system become swollen and inflammed, causing discomfort and bleeding. Consult a primary care provider. "/>
+						</item>
+						<item ans="No" qn="Do you have ">
+                            <item ans="Yes" qn="Please select the number of symptoms you have from the following:" desc=" 1.Blister in skin 2.Rash 3.Reduced sensation of touch 4.Weight loss 5.loss of temperature sensation">
+						        <item ans="One or two " qn="I think you are having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+							    <item ans="Three or more" qn="I think you are probably having Leprosy" desc="It is a chronic, curable, infectious disease causing skin lesions and nerve damage. Consult an infectious disease doctor."/>
+							</item>
+							<item ans="No" qn="I think you are having a disease which I couldn't confirm using my analysis.If the symptom continues for another week or more please consult a doctor"/>
+						</item>	
+					</item>		
+				</item>
+			</item>
+		</item>
+	</item>
+	<item ans="EMERGENCY" qn="Select the required emergency">
+	    <item ans="SNAKE BITE" qn="Snake bite" desc="1.Quickly check if quiet casualties are there. 2.Support the head and neck to avoid them twisting – do not cover their ears, keep  talking to them calmly and keep checking that they are still breathing. 3.Only remove an unconscious person from a vehicle if there is an immediate danger to their life. 4.Do not allow anyone to smoke at the scene or give the casualties anything to eat or drink following the accident in case they later need an operation.5.Immediately inform ambulance and other rescue services."/>
+		<item ans="ELECTRIC SHOCK" qn="Electric Shock" desc="ELECTRIC SHOCKS 1.	Don’t touch the injured person if he/she is still in contact with the electrical current. 2.Turn off the source of electricity if possible. If not possible move the source away from you and the person using a dry non-conducting object made of cardboard, plastic or wood. 3.Begin CPR, if the person shows no signs of circulation such as breathing, coughing or movements."/>     
+		<item ans="FITS" qn="fits" desc="First Aid: 1.Give the patient a room and keep others away. 2.Clear Hard or sharp objects like glass and furniture away from the person. 3.Place their head above a cushion. 4.Try to loosen the clothing around the patient’s neck (if any). 5.Don’t try to hold them down or restrict their movements."/>
+		<item ans="ACCIDENTS" qn="Accidents" desc="1.Quickly check if quiet casualties are there. 2.Support the head and neck to avoid them twisting – do not cover their ears, keep  talking to them calmly and keep checking that they are still breathing. 3.Only remove an unconscious person from a vehicle if there is an immediate danger to their life. 4.Do not allow anyone to smoke at the scene or give the casualties anything to eat or drink following the accident in case they later need an operation. 5.Immediately inform ambulance and other rescue services."/>
+	    <item ans="CARDIAC ARREST" qn="Heart Attack" desc="1.Push on the chest. Imagine a line between the nipples and put your hands on the centre of the chest right below that line. Push hard and fast—about twice per second. 2.Rescue Breaths. If you have had CPR training and feel comfortable performing the steps, push on the chest 30 times then give 2 rescue breaths.  3.Repeat cycles of 30 chest compressions and 2 breaths until help arrives or the patient wakes up."/>
+	</item>
+<item ans="മലയാളം " qn="നമസ്കാരം , നിങ്ങൾക്കു വേണ്ടി എന്ത് സഹായമാണ് വേണ്ടത് ">
+    <item ans="രോഗ നിർണയം " qn="ഉദര വേദന താങ്കളെ ശല്യപെടുത്തുന്നുണ്ടോ ? ">
+        <item ans="അതെ " qn="ഈ ഇടയായി താങ്കളുടെ ഭക്ഷണത്തിന്റെ അളവു കുറയുന്നുണ്ടോ ?">
+	        <item ans="അതെ " qn="ഈ ഇടയായി താങ്കളുടെ ഛർദിക്കാനുള്ള   ആസക്തത്തി കൂടുന്നുണ്ടോ ?">
+		        <item ans="അതെ " qn="ഈ ഇടയായി  താങ്കളുടെ ത്വക്കും കണ്ണും  മഞ്ഞ നിറം ആകുന്നുണ്ടോ??">
+				    <item ans="അതെ " qn="താഴെ  കൊടുത്തിരിക്കുന്ന   രോഗ ലക്ഷണങ്ങളിൽ നിന്നും നിങ്ങളെ  അലട്ടുന്നുവ  തിരഞ്ഞെടുക്കുക  1.കഠിന ക്ഷീണം  2.ദേഹം വേദന   3.ഇരുണ്ട മൂത്രം 4. തടിച്ച രക്ത കുഴലുകൾ  5.പനി ">
+					    <item ans="മൂന്നിൽ കുറവ്" qn="ക്ഷമിക്കണം എനിക്ക് നിങ്ങളുടെ ശരിയായ രോഗം നിർണയിക്കുവാൻ കഴിയുന്നില്ല "/>
+						<item ans="മൂന്നോ കൂടുതലോ " qn="നിങ്ങൾക് ഹെപ്പറ്റൈറ്റിസ് ആണെന് തോന്നുന്നു ?"/>
+					</item>
+    			    <item ans="ഇല്ല " qn="ക്ഷമിക്കണം എനിക്ക് നിങ്ങളുടെ ശരിയായ രോഗം നിർണയിക്കുവാൻ കഴിയുന്നില്ല"/>
+				</item>
+				<item ans="ഇല്ല " qn="ക്ഷമിക്കണം എനിക്ക് നിങ്ങളുടെ ശരിയായ രോഗം നിർണയിക്കുവാൻ കഴിയുന്നില്ല"/>
+			</item>
+			<item ans="ഇല്ല " qn="ക്ഷമിക്കണം എനിക്ക് നിങ്ങളുടെ ശരിയായ രോഗം നിർണയിക്കുവാൻ കഴിയുന്നില്ല"/>
+		</item>
+		<item ans="ഇല്ല " qn="ക്ഷമിക്കണം എനിക്ക് നിങ്ങളുടെ ശരിയായ രോഗം നിർണയിക്കുവാൻ കഴിയുന്നില്ല"/>
+	</item>
+	<item ans="അത്യാവശ്യ ശുശ്രുഷത " qn="ക്ഷ"/>
+</item>
+</item>		
